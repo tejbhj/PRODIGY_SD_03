@@ -3,7 +3,7 @@ Contact Info Manager
 This tool is a simple GUI-based application for managing contact information. Users can add new contacts, view existing contacts, and delete contacts from a CSV file. Each contact is stored with a name, phone number, and email address.
 
 Requirements
-* Python 3.x
+* Python 3.11.4
 * tkinter library (usually included with Python)
 * csv library (included with Python)
 
